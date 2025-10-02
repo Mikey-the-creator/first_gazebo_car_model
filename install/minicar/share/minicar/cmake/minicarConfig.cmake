@@ -1,0 +1,1 @@
+/home/michael/ws_minicar/build/minicar/ament_cmake_core/minicarConfig.cmake

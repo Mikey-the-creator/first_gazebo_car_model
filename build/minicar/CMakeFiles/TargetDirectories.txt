@@ -1,0 +1,9 @@
+/home/michael/ws_minicar/build/minicar/CMakeFiles/uninstall.dir
+/home/michael/ws_minicar/build/minicar/CMakeFiles/minicar_uninstall.dir
+/home/michael/ws_minicar/build/minicar/CMakeFiles/test.dir
+/home/michael/ws_minicar/build/minicar/CMakeFiles/edit_cache.dir
+/home/michael/ws_minicar/build/minicar/CMakeFiles/rebuild_cache.dir
+/home/michael/ws_minicar/build/minicar/CMakeFiles/list_install_components.dir
+/home/michael/ws_minicar/build/minicar/CMakeFiles/install.dir
+/home/michael/ws_minicar/build/minicar/CMakeFiles/install/local.dir
+/home/michael/ws_minicar/build/minicar/CMakeFiles/install/strip.dir

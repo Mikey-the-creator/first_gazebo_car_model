@@ -1,0 +1,32 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/michael/ws_minicar/build/minicar
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/launch/.vscode/c_cpp_properties.json
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/launch/.vscode/settings.json
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/launch/gazebo_model.launch.py
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/model/robot.gazebo
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/model/robot.xacro
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/ament_index/resource_index/package_run_dependencies/minicar
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/ament_index/resource_index/parent_prefix_path/minicar
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/environment/ament_prefix_path.sh
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/environment/ament_prefix_path.dsv
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/environment/path.sh
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/environment/path.dsv
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/local_setup.bash
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/local_setup.sh
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/local_setup.zsh
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/local_setup.dsv
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/package.dsv
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/ament_index/resource_index/packages/minicar
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/cmake/minicarConfig.cmake
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/cmake/minicarConfig-version.cmake
+-- Symlinking: /home/michael/ws_minicar/install/minicar/share/minicar/package.xml

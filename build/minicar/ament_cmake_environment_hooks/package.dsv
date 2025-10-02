@@ -1,0 +1,4 @@
+source;share/minicar/local_setup.bash
+source;share/minicar/local_setup.dsv
+source;share/minicar/local_setup.sh
+source;share/minicar/local_setup.zsh
